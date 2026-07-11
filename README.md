@@ -20,9 +20,9 @@
 ```yaml
 name: Yener Er
 role: Backend & AI Engineer
-location: Trabzon, Turkey
-education: B.S. Software Engineering @ METU (Northern Cyprus Campus)
-currently_building: [ncchocam.com, Cyperr]
+location:  Turkey
+education: B.S. Software Engineering @ METU 
+currently_building: [ Cyperr]
 currently_learning: [LLM Agents, RAG pipelines, Distributed Systems]
 achievements:
   - 🥇 1st Place — AI Future Minds'25 Construction AI Challenge
@@ -70,7 +70,7 @@ fun_fact: "Ships production backend & LLM systems, then goes chasing a football.
 
 | Project | Description |
 |---|---|
-| **[NCC Course Optimizer](https://ncchocam.com)** | Full-stack course scheduling optimizer — FastAPI + React 19 + TailwindCSS + Radix UI, with constraint-satisfaction based conflict detection and GPA calculator |
+
 | **Cyperr** | AI-powered service marketplace (Armut-style) with LLM orchestration for matching and recommendation, mobile + web clients |
 | **PASHA-NEURAL** | Multi-role AI risk cockpit for retail operations with OCR + explainable risk engine — built @ PASHA Hackathon 6.0, Baku |
 | **2D–3D Architectural Conversion System** | 🥇 1st place, AI Future Minds'25 Hackathon — end-to-end 2D-to-3D construction pipeline |
